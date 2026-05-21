@@ -1,0 +1,17 @@
+Date,Category,Item_Name,Price,Quantity_Sold,Competitor_Price,Thrift_Cost,Is_Grail,Brand_Tier
+2026-01-01,Jacket,Vintage Carhartt Detroit,45.00,25,48.00,12.00,False,Standard
+2026-01-15,Jacket,Vintage Carhartt Detroit,55.00,18,52.00,12.00,False,Standard
+2026-02-01,Jacket,90s Leather Bomber,65.00,12,60.00,15.00,False,Standard
+2026-02-15,Jacket,90s Leather Bomber,40.00,32,45.00,15.00,False,Standard
+2026-03-01,Jacket,Vintage Track Jacket,35.00,40,38.00,8.00,False,Standard
+2026-03-15,Jacket,Vintage Track Jacket,50.00,20,48.00,8.00,False,Standard
+2026-04-01,T-Shirt,95 Nike Single Stitch,25.00,85,24.00,4.00,False,Standard
+2026-04-15,T-Shirt,95 Nike Single Stitch,35.00,45,32.00,4.00,False,Standard
+2026-05-01,T-Shirt,Vintage Band Tee,40.00,30,42.00,6.00,False,Standard
+2026-05-15,T-Shirt,Vintage Band Tee,50.00,12,45.00,6.00,False,Standard
+2026-05-18,T-Shirt,Blank Boxy Tee,20.00,110,22.00,3.00,False,Standard
+2026-05-19,T-Shirt,Blank Boxy Tee,28.00,65,26.00,3.00,False,Standard
+2026-05-10,Jacket,90s Undercover Bomber,320.00,1,350.00,45.00,True,Grail-Tier
+2026-05-12,T-Shirt,Vintage Kapital Skeleton Tee,180.00,1,195.00,20.00,True,Premium
+2026-05-15,Jacket,Evisu Multi-Pocket Denim,280.00,1,290.00,35.00,True,Premium
+2026-05-19,Jacket,Number (N)ine Grunge Hoodie,420.00,1,450.00,60.00,True,Grail-Tier
